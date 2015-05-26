@@ -1,0 +1,16 @@
+{
+  "name": "html5-api-localstorage",
+  "version": "0.1.0",
+  "homepage": "https://github.com/PauloRenato4/html5-api-localstorage",
+  "authors": [
+    "Paulo Renato Moreira Paschoal <paulo.dimaria34@hotmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
